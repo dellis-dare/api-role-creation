@@ -19,9 +19,10 @@
 ################################## V A R I A B L E S ######################################
 ###########################################################################################
 
-jamfURL="https://COMPANYNAME.jamfcloud.com"
-clientID="abc123"
-clientSecret="def456"
+jamfURL="https://feeltectjamf.jamfcloud.com/"
+clientID="8af18fc4-2152-4e53-b95c-ddd43a51b8f8"
+clientSecret="EbqcVXo4ys4YarciLQMdWrvsfJFJeth2RpIgEVg2DNnSIQw0cVcz_Ne38LxEaf2a"
+
 
 apiRoleDisplayName="JSC | UEM Integration"
 apiRolePrivileges=$(cat <<EOF
